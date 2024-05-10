@@ -64,7 +64,7 @@ export const Lorem = () => {
         {text.map((item, index) => (
           <p
             key={index}
-            className="bg-[#fff] p-10  mt-10 mb-10 rounded-lg text-[#524494] font-semibold"
+            className="bg-[#fff] p-10  mt-10 mb-10 rounded-lg text-[#] font-semibold"
           >
             {item}
           </p>
